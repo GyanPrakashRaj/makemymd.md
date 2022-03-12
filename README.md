@@ -1,4 +1,10 @@
 # makemymd.md
+
+THIS TOOL IS DEFINITELY GOING TO BE A LIFESEVER FOR EVERY DEVELOPER.
+Makemymd.md will work as editor and its a new revolution.
+
+Link to production site: [makemymd](https://cranky-heyrovsky-6d5db1.netlify.app/)
+
 # Contributing to this repository
 
 ### Have a new feature request or see a bug?
